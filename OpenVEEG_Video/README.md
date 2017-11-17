@@ -1,7 +1,7 @@
 # OpenVEEG_video
 For more documentation, look at the wiki.
 
-For instructions relating to changing the default video codec, resolution, frame rate, and grayscale vs. color, look at the README in the VideoStream Folder
+For instructions relating to changing the default video codec, resolution, frame rate, and grayscale vs. color, look at the README in the OpenVEEG_video Folder
 
 # Suggested Hardware (Test Rig Specs):
 
