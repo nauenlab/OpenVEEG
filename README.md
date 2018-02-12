@@ -1,4 +1,4 @@
-# OPENVEEG 
+# OpenVEEG 
 OpenVEEG is an open-soure program that allows synchronous electroencephalogram and video recording for seizure-induced animal models.
 
 # Dependencies
