@@ -1,6 +1,4 @@
 # OpenVEEG_video
-For more documentation, look at the wiki.
-
 For instructions relating to changing the default video codec, resolution, frame rate, and grayscale vs. color, look at the README in the OpenVEEG_video Folder
 
 # Suggested Hardware (Test Rig Specs):
@@ -19,7 +17,7 @@ PSU: Corsair 750W ATX12V Power Supply
 
 # Licensing
 
-VideosStream, READ_LSL_EEG (both versions), and PythonPlotter are provided under the MIT License
+OpenVEEG_video, READ_LSL_EEG (both versions), and PythonPlotter are provided under the MIT License
 
 # Dependencies
 
@@ -27,7 +25,7 @@ In order to use OpenVEEG_video, the user must independently install OpenCV 3.1 f
 
 Boost 1.64 or later must also be downloaded to use OpenVEEG_video. You can download it here: http://www.boost.org/.
 
-LabStreamingLayer is required. It can be downloaded at https://github.com/sccn/labstreaminglayer. The build dll must be included in the file folder containing the VideosStream executable.
+LabStreamingLayer is required. It can be downloaded at https://github.com/sccn/labstreaminglayer. The build dll must be included in the file folder containing the OpenVEEG_video (i.e. liblsl64.dll) executable.
 
 # Credits:
 
