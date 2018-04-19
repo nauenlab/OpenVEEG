@@ -1,6 +1,8 @@
 # OpenVEEG_video
 For instructions relating to changing the default video codec, resolution, frame rate, and grayscale vs. color, look at the README in the OpenVEEG_video Folder
 
+OpenVEEG is run on a four hour recurrent schedule that saves the files with the date, start time of the recording, and mouse number. This schedule can be set up through Windows Time Scheduler with batch files to run the video and EEG programs. 
+
 # Suggested Hardware (Test Rig Specs):
 
 Note, these are not the minimum specs required, but simply the rig we developed and tested on.
